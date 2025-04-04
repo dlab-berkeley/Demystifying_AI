@@ -1,84 +1,29 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab Demystifying AI Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab's Demystifying AI workshop. 
 
 ### Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
 
-Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+There are no prerequisites for this workshop.
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+In this workshop, we provide [an introduction to the basic concepts underlying contemporary AI tools]. First, we’ll cover the the fundamentals of **AI**, **Machine Learning**, and **Neural Networks/Deep Learning**. Then, we’ll examine the capabilities and limitations of contemporary AI tools such as ChatGPT, Claude, and Perplexity, and outline best practices for the use of such tools. 
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
+- Understand (and be able to describe in simple language) the concepts underlying “AI” and “Generative AI”, including machine learning, deep learning, and neural networks.
+- Understand the current capabilities of public-facing Generative AI tools
+- Understand the limitations and ethical considerations associated with the use of Generative AI
 
 This workshop does not cover the following:
 
 - [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
 - [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
-
-
-## Installation Instructions
-
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
-
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
-
-## Is [Language] not Working on Your Computer?
-
-If you do not have [Language] installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
-
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-
-The DataHub downloads this repository, along with any necessary packages, and
-allows you to run the materials in an RStudio instance on UC Berkeley's servers.
-No installation is necessary from your end - you only need an internet browser
-and a CalNet ID to log in. By using the DataHub, you can save your work and come
-back to it at any time. When you want to return to your saved work, just go
-straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
-
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
-
-By using this button, however, you cannot save your work.
-
-
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
 
 # Additional Resources
 
@@ -95,9 +40,9 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
+# Other D-Lab AI Workshops
 
-Here are other [Language] workshops offered by the D-Lab:
+Here are other AI workshops offered by the D-Lab:
 
 ## Basic Competency
 
@@ -109,5 +54,4 @@ Here are other [Language] workshops offered by the D-Lab:
 
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+[Alex Ramiller](https://dlab.berkeley.edu/people/alex-ramiller)
