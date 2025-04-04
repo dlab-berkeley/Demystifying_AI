@@ -10,15 +10,15 @@ There are no prerequisites for this workshop.
 
 ## Workshop Goals
 
-In this workshop, we provide [an introduction to the basic concepts underlying contemporary AI tools]. First, we’ll cover the the fundamentals of **AI**, **Machine Learning**, and **Neural Networks/Deep Learning**. Then, we’ll examine the capabilities and limitations of contemporary AI tools such as ChatGPT, Claude, and Perplexity, and outline best practices for the use of such tools. 
+In this workshop, we provide a basic and relatively non-technical introduction to the foundational concepts underlying contemporary AI tools. First, we’ll cover the the fundamentals of **AI**, **Machine Learning**, and **Neural Networks/Deep Learning**. Then, we’ll examine the capabilities and limitations of contemporary AI tools such as ChatGPT, Claude, and Perplexity, and outline best practices for the use of such tools. 
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
 - Understand (and be able to describe in simple language) the concepts underlying “AI” and “Generative AI”, including machine learning, deep learning, and neural networks.
-- Understand the current capabilities of public-facing Generative AI tools
-- Understand the limitations and ethical considerations associated with the use of Generative AI
+- Understand the current capabilities of public-facing Generative AI tools.
+- Understand the limitations and ethical considerations associated with the use of Generative AI.
 
 This workshop does not cover the following:
 
@@ -33,7 +33,6 @@ Check out the following resources to learn more about [Workshop topics]:
 * [Resource2](LinkToResource2): _Explain Resource 2_
 * [...]
 
-
 # About the UC Berkeley D-Lab
 
 D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
@@ -46,11 +45,13 @@ Here are other AI workshops offered by the D-Lab:
 
 ## Basic Competency
 
-**Provide a list of workshops here.**
+[LLMs for Exploratory Research](https://github.com/dlab-berkeley/LLMs-Exploratory-Research)
+[Vibe Coding](https://github.com/dlab-berkeley/vibe-coding)
 
 ## Intermediate/Advanced Competency
 
-**Provide a list of workshops here.**
+[R Copilot Assisted Coding](https://github.com/dlab-berkeley/R-Copilot-Assisted-Coding-Workshop)
+[Python GPT Fundamentals](https://github.com/dlab-berkeley/Python-GPT-Fundamentals)
 
 # Contributors
 
