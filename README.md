@@ -28,11 +28,9 @@ This workshop does not cover the following:
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about AI:
 
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
+* [3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&t=242s): _A video series featuring detailed explanations of the mathematical concepts underlying neural networks and Large Language Models (LLMs)._
 
 # About the UC Berkeley D-Lab
 
