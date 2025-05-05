@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-The materials for this workshop are located at the following link: https://docs.google.com/presentation/d/1MpPCNk-kUsVF24IPf_u5gA8zn8vVZ7qpjY9HuWcCtM4/edit?slide=id.g34713ca2e29_0_67#slide=id.g34713ca2e29_0_67.
+The materials for this workshop are located [here](https://docs.google.com/presentation/d/1MpPCNk-kUsVF24IPf_u5gA8zn8vVZ7qpjY9HuWcCtM4/preview#slide=id.p).
 
 ### Prerequisites
 
