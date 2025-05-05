@@ -22,7 +22,7 @@ After this workshop, you will be able to:
 
 This workshop does not cover the following:
 
-- Prompt engineering. This is covered in [D-LabWorkshopName](URL).
+- Prompt engineering. This is covered in [Prompt Engineering](https://github.com/dlab-berkeley/prompt-engineering).
 - Applied coding for Machine Learning. This is covered in [Python Machine Learning Fundamentals](https://github.com/dlab-berkeley/Python-Machine-Learning-Fundamentals) and [R Machine Learning with tidymodels](https://github.com/dlab-berkeley/R-Machine-Learning).
 - Applied coding for Deep Learning. This is covered in [Python Deep Learning](https://github.com/dlab-berkeley/Python-Deep-Learning) and [R Deep Learning](https://github.com/dlab-berkeley/R-Deep-Learning).
 
