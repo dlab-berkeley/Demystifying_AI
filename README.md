@@ -8,6 +8,8 @@ The materials for this workshop are located [here](https://docs.google.com/prese
 
 There are no prerequisites for this workshop.
 
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
+
 ## Workshop Goals
 
 In this workshop, we provide a basic and relatively non-technical introduction to the foundational concepts underlying contemporary AI tools. First, we’ll cover the the fundamentals of **AI**, **Machine Learning**, and **Neural Networks/Deep Learning**. Then, we’ll examine the capabilities and limitations of contemporary AI tools such as ChatGPT, Claude, and Perplexity, and outline best practices for the use of such tools. 
