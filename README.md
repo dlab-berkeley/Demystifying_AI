@@ -4,7 +4,7 @@
 
 The materials for this workshop are located [here](https://docs.google.com/presentation/d/1MpPCNk-kUsVF24IPf_u5gA8zn8vVZ7qpjY9HuWcCtM4/preview#slide=id.p).
 
-### Prerequisites
+## Prerequisites
 
 There are no prerequisites for this workshop.
 
